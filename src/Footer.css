@@ -1,0 +1,22 @@
+.footer{
+    display: flex;
+    background-color:rgb(119,136,153);
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+.foo1{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    width: 300px;
+}
+.foo2{
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex: 5px;
+}

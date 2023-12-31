@@ -1,0 +1,44 @@
+.header{
+    display: flex;
+    padding: 30px;
+    background-color:rgb(119,136,153);
+}
+.web_name{
+    margin: 0px;
+    display: flex;
+    flex: 30%;
+}
+.web_name >h1{
+color: white;
+}
+.search{
+    display: flex;
+    justify-items: flex-end;
+    align-items: center;
+    flex: 70%;
+}
+
+.search >input{
+    height: 30px;
+    width: 60%;
+    border-style: solid;
+    border-color: none;
+    border-width: 1px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    box-shadow: 2px 2px 7px rgb(58, 58, 58);
+}
+.search >button{
+    background-color: rgb(148, 147, 147);
+    border: none;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    height:30px ;
+}

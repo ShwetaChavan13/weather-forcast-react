@@ -1,0 +1,47 @@
+.main {
+  display: flex;
+  background-image: url("https://antongorlin.com/wp-content/uploads/2018/02/beautiful-sunrise-landscape.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; 
+  height: 700px;
+}
+.mainleft {
+  flex: 50%;
+}
+.mainright {
+  flex: 50%;
+}
+.containerleft{
+    border: none;
+    border-width: 2px;
+    margin: 50px;
+    padding: 20px;
+    width: 60%;
+    height:490px;
+    background-color:black;
+    opacity: 0.7;
+    margin: 50px 50px 50px 120px;
+    color: white;
+    text-align: center;
+    box-shadow: 8px 8px 4px rgb(54, 54, 54);
+}
+.containerleft >img{
+  width: 130px;
+}
+.containerright{
+    border: none;
+    border-width: 2px;
+    margin: 50px 50px 50px 20px  ;
+    height:500px;
+    padding: 20px;
+    width: 60%;
+    background-color: black;
+    opacity: 0.7;
+    color: white;
+    text-align: center;
+    box-shadow: 8px 8px 4px rgb(54, 54, 54);
+}
+.containerright,.containerleft >h1,h2,h3{
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
