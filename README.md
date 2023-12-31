@@ -1,3 +1,6 @@
+#default page
+![Screenshot (128)](https://github.com/ShwetaChavan13/weather-forcast-react/assets/155257376/e1522914-14d9-4fa8-a518-b2cd87d192d8)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
