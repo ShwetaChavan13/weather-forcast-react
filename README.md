@@ -1,5 +1,5 @@
 #app view
-![Screenshot (131)](https://github.com/ShwetaChavan13/weather-forcast-react/assets/155257376/19819641-08c6-48a9-968f-5d9f8615d9ae)
+![Weatherforcast](https://github.com/ShwetaChavan13/weather-forcast-react/assets/155257376/32727810-529f-444c-ad73-edca092af8e8)
 
 #create react app
 #npx create-react-app weather-forcast
