@@ -1,22 +1,24 @@
-.footer{
-    display: flex;
-    background-color:rgb(119,136,153);
-    height: 100px;
-    align-items: center;
-    justify-content: center;
+.footer {
+  display: flex;
+  background-image: url("https://t4.ftcdn.net/jpg/00/70/47/55/360_F_70475526_fkTkmMTvkmHpCJiiMI2SDwqZTbcB5Fcb.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100px;
+  align-items: center;
+  justify-content: center;
 }
-.foo1{
-    display: grid;
-    align-items: center;
-    justify-content: center;
-    height: 60px;
-    width: 300px;
+.foo1 {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  height: 60px;
+  width: 300px;
 }
-.foo2{
-    margin: 20px;
-    padding: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    flex: 5px;
+.foo2 {
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex: 5px;
 }
